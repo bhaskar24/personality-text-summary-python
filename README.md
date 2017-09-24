@@ -19,7 +19,8 @@ sudo apt-get install -y nodejs
 ```
 
 ## Usage
-See the following Python code for how you can use the `getSummary()` method.
+Clone my repository into whatever directory you would like. Then, create a new Python script.
+See the following Python code for how you can use the `getSummary()` method in your script.
 ```sh
 from watson_developer_cloud import PersonalityInsightsV2 as PersonalityInsights
 import personalitysummary
