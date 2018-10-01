@@ -18,6 +18,10 @@ curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
+Add three folder into dependencies
+```
+Link: https://github.com/personality-insights/text-summary/tree/master/src
+```
 ## Usage
 Clone my repository into whatever directory you would like. Then, create a new Python script.
 See the following Python code for how you can use the `getSummary()` method in your script.
